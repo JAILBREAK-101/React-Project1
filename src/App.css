@@ -1,0 +1,17 @@
+/* STYLES COME IN HERE */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  display: flex;
+  margin: 4rem;
+  justify-content: space-between;
+}
